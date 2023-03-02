@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329831434353",
+    "project_id": "phoenix-of-odysseus",
+    "storage_bucket": "phoenix-of-odysseus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329831434353:android:15119416e67d82fa9cb3d0",
+        "android_client_info": {
+          "package_name": "com.tocaboca.tocalifeworldo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329831434353-7edbdoidcrebpd32qfgqo0ons2mhu0ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Dn-PwXxXmrOUGhQS1PEqCeMP0kTxAXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329831434353-7edbdoidcrebpd32qfgqo0ons2mhu0ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

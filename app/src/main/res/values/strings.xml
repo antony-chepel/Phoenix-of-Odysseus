@@ -1,0 +1,9 @@
+<resources>
+    <string name="camera_permission_denied_txt">Permission denied</string>
+    <string name="app_name">Phoenix of Odysseus</string>
+    <string name="facebook_client_token">cb87c0b58bc2e3ffef3c4d9d2bfe99a1</string>
+    <string name="cannot_open_file_chooser_txt">Can not open file chooser</string>
+    <string name="fb_login_protocol_scheme">fb155328173996108</string>
+    <string name="camera_permission_granted_txt">Permission granted</string>
+    <string name="facebook_app_id">155328173996108</string>
+</resources>
